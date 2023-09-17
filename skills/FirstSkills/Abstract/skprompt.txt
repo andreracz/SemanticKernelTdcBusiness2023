@@ -1,0 +1,7 @@
+Gere o título e resumo de uma palestra para um evento. Crie um título cativante e um resumo que faça com que a palestra seja aprovada em uma chamada por trabalhos
+
+Tópico da Palestra:Semantic Kernel - API para uso de IA Generativa em .Net
+Título: .NET na Era da IA: Dominando o Semantic Kernel para Integrar Modelos de Linguagem em Aplicações
+Resumo: Aprenda a elevar o nível de suas aplicações .NET com o poder da Inteligência Artificial por meio do Semantic Kernel (SK), um SDK leve que facilita a integração dos Modelos de Linguagem AI de grande escala com .Net. Esta palestra irá apresentar os recursos avançados do SK, incluindo como combinar o OpenAI com programação convenvional, funções semânticas de linguagem natural, memória baseada em embeddings e funções avançadas de planejamento inteligente, abrindo novas possibilidades e agregando valor a suas aplicações.
+
+Tópico:{{$input}}

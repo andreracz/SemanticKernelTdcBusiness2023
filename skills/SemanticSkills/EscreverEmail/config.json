@@ -1,0 +1,12 @@
+{
+    "schema": 1,
+    "description": "Escreva um e-mail de comprovante de pagamento em um estilo",
+    "type": "completion",
+    "completion": {
+      "max_tokens": 400,
+      "temperature": 0.7,
+      "top_p": 0.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0
+    }
+  }

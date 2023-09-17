@@ -1,0 +1,4 @@
+Escreva um e-mail de comprovante de transferência bancária.
+Inclua somente o valor e nome da pessoa que recebeu a transferencia.
+
+Descrição do Transferencia:{{$input}}
